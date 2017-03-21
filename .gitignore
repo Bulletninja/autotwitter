@@ -1,0 +1,4 @@
+#ignore config files, and stopwords
+*.yaml
+*.yml
+*.txt
